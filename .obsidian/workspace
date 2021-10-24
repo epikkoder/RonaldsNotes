@@ -1,0 +1,96 @@
+{
+  "main": {
+    "id": "850be43b8b053978",
+    "type": "split",
+    "children": [
+      {
+        "id": "402b2a8621fae414",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "C#/Dynamic.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "38cb30a8ccef7e93",
+    "type": "split",
+    "children": [
+      {
+        "id": "52dddc267359bf1b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "488c103bbc043a03",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c5d64648d4ba8da2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4c6b17f30498554b",
+    "type": "split",
+    "children": [
+      {
+        "id": "1d2c15020331e6e0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "156fe939698d553b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "C#/Dynamic.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "402b2a8621fae414",
+  "lastOpenFiles": [
+    "C#/Dynamic.md",
+    "Reflection.md",
+    "C#/Reflection.md",
+    "README.md"
+  ]
+}
