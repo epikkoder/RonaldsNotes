@@ -4,15 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "402b2a8621fae414",
+        "id": "ca21fb937d694f26",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "C#/Dynamic.md",
-            "mode": "preview"
+            "file": "C#/Interfaces.md",
+            "mode": "source",
+            "source": true
           }
-        }
+        },
+        "group": "76336887d0c43fed"
+      },
+      {
+        "id": "24f24709f4f10c1c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "C#/Interfaces.md",
+            "mode": "preview",
+            "source": true
+          }
+        },
+        "group": "76336887d0c43fed"
       }
     ],
     "direction": "vertical"
@@ -68,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C#/Dynamic.md",
+                "file": "C#/Interfaces.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,11 +101,14 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "402b2a8621fae414",
+  "active": "ca21fb937d694f26",
   "lastOpenFiles": [
+    "C#/Interfaces.md",
     "C#/Dynamic.md",
+    "README.md",
+    "C#/images/dynamic_to_static.jpg",
+    "C#/images/dynamic_expression.jpg",
     "Reflection.md",
-    "C#/Reflection.md",
-    "README.md"
+    "C#/Reflection.md"
   ]
 }
