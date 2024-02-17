@@ -8,7 +8,7 @@
   - COM (e.g. writing office applications)
   - Dynamic languages (IronPython)
 
-Without dynamic, we'd have to use [[Reflection]]
+Without dynamic, we'd have to use Reflection.
 
 ```csharp
 object obj = "Ronald";

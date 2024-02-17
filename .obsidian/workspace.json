@@ -4,20 +4,42 @@
     "type": "split",
     "children": [
       {
-        "id": "1ae598aced2f0fdb",
+        "id": "527c8658d7b96320",
         "type": "tabs",
         "children": [
           {
-            "id": "1bf7882704554e14",
+            "id": "93450c40ed0eae95",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Probabilities/Birthday Paradox.md",
-                "mode": "preview",
+                "file": "C#/Data Type Casting And Conversion.md",
+                "mode": "source",
+                "backlinks": false,
                 "source": true
               }
-            }
+            },
+            "group": "f079d4f946cd3a49"
+          }
+        ]
+      },
+      {
+        "id": "082048a4526a7019",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "847f429d9cd539bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C#/Data Type Casting And Conversion.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              }
+            },
+            "group": "f079d4f946cd3a49"
           }
         ]
       }
@@ -85,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Probabilities/Birthday Paradox.md",
+                "file": "C#/Data Type Casting And Conversion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,6 +115,18 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "502e938b39374a55",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -113,17 +147,19 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "1bf7882704554e14",
+  "active": "93450c40ed0eae95",
   "lastOpenFiles": [
     "C#/Dynamic.md",
+    "C#/Data Type Casting And Conversion.md",
     "C#/Interfaces.md",
+    "README.md",
+    "Reflection.md",
     "Probabilities/Birthday Paradox.md",
+    "Untitled.canvas",
     "C#/images/dynamic_expression.jpg",
     "Probabilities",
     "C#/images/dynamic_to_static.jpg",
     "2022-09-23.md",
-    "README.md",
-    "Reflection.md",
     "C#/Reflection.md"
   ]
 }
