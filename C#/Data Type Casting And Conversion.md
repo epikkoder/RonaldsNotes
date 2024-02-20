@@ -1,6 +1,6 @@
 ## Widening Conversion
 Attempting to convert a data type that could hold _less_ information to a data type that can hold _more_ information.
-```csharp
+```cs
 int myInt = 3;
 decimal myDecimal = myInt;
 ```
@@ -12,7 +12,7 @@ decimal: 3
 
 ## Narrowing Conversion
 Attempting to convert a data type that can hold _more_ information to a data type that can hold _less_ information. You may lose precision when converting. You need to perform a **cast** when doing a narrowing conversion.
-```csharp
+```cs
 decimal myDecimal = 3.14m;
 int myInt = (int)myDecimal;
 ```
@@ -25,7 +25,7 @@ int: 3
 ## Performing Data Conversions
 To perform data conversion, you can use one of several techniques:
 - Use a helper method on the data type
-```csharp
+```cs
 // Using Parse()
 string first = "5";
 string second = "7";
