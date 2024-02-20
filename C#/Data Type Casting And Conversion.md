@@ -33,21 +33,21 @@ int sum = int.Parse(first) + int.Parse(second);
 // Output: 12
 ```
 > [!info] Use `TryParse()` to avoid a format exception
-```csharp
-string value = "102";
-int result = 0;
-if (int.TryParse(value, out result))
-{
-   Console.WriteLine($"Measurement: {result}");
-}
-else
-{
-   Console.WriteLine("Unable to report the measurement.");
-}
-```
+> ```cs
+> string value = "102";
+> int result = 0;
+> if (int.TryParse(value, out result))
+> {
+>    Console.WriteLine($"Measurement: {result}");
+> }
+> else
+> {
+>    Console.WriteLine("Unable to report the measurement.");
+> }
+> ```
 
 - Use a helper method on the variable
-```csharp
+```cs
 // Using ToString()
 int first = 5;
 int second = 7;
@@ -56,7 +56,7 @@ string message = first.ToString() + second.ToString();
 ```
 
 - Use the `Convert` class methods
-```csharp
+```cs
 // Using Convert
 string value1 = "5";
 string value2 = "7";
