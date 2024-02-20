@@ -1,2 +1,2 @@
 # Ronald's Notes
-A repository of all my notes for all sorts of topics
+A repository of all my notes for all sorts of topics, using Obsidian
