@@ -4,40 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "0a98b0980f24c83f",
+        "id": "ebd8eab88aa8e15e",
         "type": "tabs",
         "children": [
           {
-            "id": "867ccd985b1662df",
+            "id": "ab196913f68c672f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "C#/String Formatting with String Interpolation.md",
                 "mode": "source",
                 "source": true
               }
             },
-            "group": "fbb4d47363a94649"
+            "group": "171d135681952af4"
           }
         ]
       },
       {
-        "id": "85ab7fdd0daccb3b",
+        "id": "9e812fd0613e3f02",
         "type": "tabs",
         "children": [
           {
-            "id": "117797ff66b1735b",
+            "id": "cd23a8ce86eb6306",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "C#/String Formatting with String Interpolation.md",
                 "mode": "preview",
                 "source": true
               }
             },
-            "group": "fbb4d47363a94649"
+            "group": "171d135681952af4"
           }
         ]
       }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "C#/String Formatting with String Interpolation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,12 +145,13 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "867ccd985b1662df",
+  "active": "ab196913f68c672f",
   "lastOpenFiles": [
     "C#/Data Type Casting And Conversion.md",
+    "C#/String Formatting with String Interpolation.md",
+    "README.md",
     "C#/Dynamic.md",
     "C#/Interfaces.md",
-    "README.md",
     "Reflection.md",
     "Probabilities/Birthday Paradox.md",
     "Untitled.canvas",

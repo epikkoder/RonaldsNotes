@@ -1,4 +1,6 @@
+
 ## Widening Conversion
+
 Attempting to convert a data type that could hold _less_ information to a data type that can hold _more_ information.
 ```cs
 int myInt = 3;
