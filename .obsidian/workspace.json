@@ -13,31 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C#/Debugging.md",
+                "file": "Project Management/Scrum.md",
                 "mode": "source",
                 "source": true
               }
             },
-            "group": "bf3080f2a6b03ab4"
+            "group": "9f1af2fd15a19ff4"
           }
         ]
       },
       {
-        "id": "947d40cd4958051b",
+        "id": "55d5d7d0a8e6c7f4",
         "type": "tabs",
         "children": [
           {
-            "id": "89efac3fa8da6d6d",
+            "id": "cd9bec90ebc894a5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C#/Debugging.md",
+                "file": "Project Management/Scrum.md",
                 "mode": "preview",
                 "source": true
               }
             },
-            "group": "bf3080f2a6b03ab4"
+            "group": "9f1af2fd15a19ff4"
           }
         ]
       }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C#/Debugging.md",
+                "file": "Project Management/Scrum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,15 +145,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "89efac3fa8da6d6d",
+  "active": "cd9bec90ebc894a5",
   "lastOpenFiles": [
-    "C#/Handling and Throwing Exceptions.md",
     "C#/Interfaces.md",
+    "C#/Dynamic.md",
     "C#/Debugging.md",
+    "Project Management/Scrum.md",
+    "Project Management",
+    "C#/Handling and Throwing Exceptions.md",
     "C#/Data Type Casting And Conversion.md",
     "C#/String Formatting with String Interpolation.md",
     "README.md",
-    "C#/Dynamic.md",
     "Reflection.md",
     "Probabilities/Birthday Paradox.md",
     "Untitled.canvas",
