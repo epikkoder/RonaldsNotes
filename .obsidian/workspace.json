@@ -4,40 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "0af4264d2cbe62c8",
+        "id": "ebec0eefb61e5a9e",
         "type": "tabs",
         "children": [
           {
-            "id": "e1a7358cb0e32d03",
+            "id": "2e1c837e115bfdba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C#/Debugging.md",
+                "file": "HTTP/What HTTP Is.md",
                 "mode": "source",
                 "source": true
               }
             },
-            "group": "d48a04d474dc90f1"
+            "group": "f6f73a167940688b"
           }
         ]
       },
       {
-        "id": "38ef973bdb4c0b5e",
+        "id": "ba87244dbb9ddb38",
         "type": "tabs",
         "children": [
           {
-            "id": "b04ac521cb1a8caf",
+            "id": "06d7761ea1d6b545",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C#/Debugging.md",
-                "mode": "preview",
+                "file": "HTTP/What HTTP Is.md",
+                "mode": "source",
                 "source": true
               }
             },
-            "group": "d48a04d474dc90f1"
+            "group": "f6f73a167940688b"
           }
         ]
       }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C#/Debugging.md",
+                "file": "HTTP/What HTTP Is.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,24 +145,29 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "e1a7358cb0e32d03",
+  "active": "2e1c837e115bfdba",
   "lastOpenFiles": [
+    "C#/Literals.md",
+    "C#/Dynamic.md",
     "C#/Handling and Throwing Exceptions.md",
+    "C#/String Formatting with String Interpolation.md",
     "C#/Debugging.md",
+    "C#/Interfaces.md",
+    "Probabilities/Birthday Paradox.md",
+    "HTTP/What HTTP Is.md",
+    "Project Management/Scrum.md",
+    "Pioneering the Future - Generative AI for Next-Generation Innovation/Notes.md",
+    "Pioneering the Future - Generative AI for Next-Generation Innovation",
+    "HTTP",
     "C#/images/immediate_window.gif",
     "C#/images/pin_variables_to_overview.gif",
     "C#/images/devenv_EO3j9KWPiW.gif",
-    "C#/Dynamic.md",
     "C#/images/pin_to_overview.gif",
     "C#/images/devenv_TGA4Tn5NrL.gif",
-    "Project Management/Scrum.md",
-    "C#/Interfaces.md",
     "Project Management",
     "C#/Data Type Casting And Conversion.md",
-    "C#/String Formatting with String Interpolation.md",
     "README.md",
     "Reflection.md",
-    "Probabilities/Birthday Paradox.md",
     "Untitled.canvas",
     "C#/images/dynamic_expression.jpg",
     "Probabilities",

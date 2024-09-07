@@ -1,0 +1,1 @@
+A literal is a notation that represents a fixed value.
