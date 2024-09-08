@@ -10,7 +10,7 @@
 
 Without dynamic, we'd have to use Reflection.
 
-```csharp
+```cs
 object obj = "Ronald";
 
 // using Reflection
@@ -24,7 +24,7 @@ excelObject.Optimize();
 
 When you use dynamic variables to an expression, it will end up being dynamic as well.
 
-```csharp
+```cs
 dynamic a = 10;
 dynamic b = 5;
 var c = a + b;
@@ -33,7 +33,7 @@ var c = a + b;
 
 When coverting from dynamic to static types, if the run-time type of the dynamic object is implicity convertible to the target type, you don't need to cast it.
 
-```csharp
+```cs
 int i = 5;
 dynamic d = i;
 long l = d;
