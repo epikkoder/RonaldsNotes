@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Thinking Clearly in Confusing Times/Module 1 - Unmasking Your Brain's Hidden Decision-Makers.md",
+                "file": "Critical Thinking for Better Decisions in the ChatGPT Era/Module 1 - Unmasking Your Brain's Hidden Decision-Makers.md",
                 "mode": "source",
                 "source": true
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Thinking Clearly in Confusing Times/Module 1 - Unmasking Your Brain's Hidden Decision-Makers.md",
+                "file": "Critical Thinking for Better Decisions in the ChatGPT Era/Module 1 - Unmasking Your Brain's Hidden Decision-Makers.md",
                 "mode": "preview",
                 "source": true
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thinking Clearly in Confusing Times/Module 1 - Unmasking Your Brain's Hidden Decision-Makers.md",
+                "file": "Critical Thinking for Better Decisions in the ChatGPT Era/Module 1 - Unmasking Your Brain's Hidden Decision-Makers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,11 +145,12 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "2e1c837e115bfdba",
+  "active": "488c103bbc043a03",
   "lastOpenFiles": [
+    "README.md",
+    "Critical Thinking for Better Decisions in the ChatGPT Era/Module 1 - Unmasking Your Brain's Hidden Decision-Makers.md",
     "C#/Dynamic.md",
-    "Thinking Clearly in Confusing Times/Module 1 - Unmasking Your Brain's Hidden Decision-Makers.md",
-    "Thinking Clearly in Confusing Times",
+    "Critical Thinking for Better Decisions in the ChatGPT Era",
     "C#/Debugging.md",
     "C#/Data Type Casting And Conversion.md",
     "C#/Handling and Throwing Exceptions.md",
@@ -168,7 +169,6 @@
     "C#/images/pin_to_overview.gif",
     "C#/images/devenv_TGA4Tn5NrL.gif",
     "Project Management",
-    "README.md",
     "Reflection.md",
     "Untitled.canvas",
     "C#/images/dynamic_expression.jpg",
