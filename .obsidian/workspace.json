@@ -11,10 +11,14 @@
             "id": "07a06450092b86bc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Microsoft Azure Fundamentals/II. Describe Azure architecture and services/Describe the core architectural components of Azure/4. Describe Azure physical infrastructure.md",
+                "mode": "source",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "4. Describe Azure physical infrastructure"
             }
           }
         ]
@@ -136,18 +140,21 @@
   },
   "active": "07a06450092b86bc",
   "lastOpenFiles": [
+    "Microsoft Azure Fundamentals/II. Describe Azure architecture and services/Describe Azure compute and networking services/Introduction.md",
+    "Microsoft Azure Fundamentals/I. Describe cloud concepts/Describe cloud computing/1. Introduction to Microsoft Azure Fundamentals.md",
+    "Microsoft Azure Fundamentals/II. Describe Azure architecture and services/Describe Azure compute and networking services",
+    "Microsoft Azure Fundamentals/II. Describe Azure architecture and services/Describe the core architectural components of Azure/5. Describe Azure management infrastructure.md",
+    "Microsoft Azure Fundamentals/I. Describe cloud concepts/Describe the benefits of using cloud services/4. Describe the benefits of security and governance in the cloud.md",
+    "Microsoft Azure Fundamentals/II. Describe Azure architecture and services/Describe the core architectural components of Azure/4. Describe Azure physical infrastructure.md",
+    "Microsoft Azure Fundamentals/II. Describe Azure architecture and services/Describe the core architectural components of Azure/2. What is Microsoft Azure.md",
+    "Microsoft Azure Fundamentals/II. Describe Azure architecture and services/Describe the core architectural components of Azure/3. Get started with Azure accounts.md",
     "Microsoft Azure Fundamentals/Describe Azure architecture and services/Describe the core architectural components of Azure/5. Describe Azure management infrastructure.md",
     "Microsoft Azure Fundamentals/II. Describe Azure architecture and services/Describe the core architectural components of Azure/describe_the_core_architectural_components_of_Azure.pdf",
-    "Microsoft Azure Fundamentals/II. Describe Azure architecture and services/Describe the core architectural components of Azure/5. Describe Azure management infrastructure.md",
-    "Microsoft Azure Fundamentals/II. Describe Azure architecture and services/Describe the core architectural components of Azure/4. Describe Azure physical infrastructure.md",
-    "Microsoft Azure Fundamentals/II. Describe Azure architecture and services/Describe the core architectural components of Azure/3. Get started with Azure accounts.md",
-    "Microsoft Azure Fundamentals/II. Describe Azure architecture and services/Describe the core architectural components of Azure/2. What is Microsoft Azure.md",
     "Microsoft Azure Fundamentals/II. Describe Azure architecture and services/Describe the core architectural components of Azure/1. Introduction.md",
     "Microsoft Azure Fundamentals/II. Describe Azure architecture and services/Describe the core architectural components of Azure",
     "Microsoft Azure Fundamentals/II. Describe Azure architecture and services",
     "Microsoft Azure Fundamentals/I. Describe cloud concepts/Describe the benefits of using cloud services/describe_the_benefits_of_using_cloud_services.pdf",
     "Microsoft Azure Fundamentals/I. Describe cloud concepts/Describe the benefits of using cloud services/5. Describe the benefits of manageability in the cloud.md",
-    "Microsoft Azure Fundamentals/I. Describe cloud concepts/Describe the benefits of using cloud services/4. Describe the benefits of security and governance in the cloud.md",
     "Microsoft Azure Fundamentals/I. Describe cloud concepts/Describe the benefits of using cloud services/3. Describe the benefits of reliability and predictability in the cloud.md",
     "Microsoft Azure Fundamentals/I. Describe cloud concepts/Describe the benefits of using cloud services/2. Describe the benefits of high availability and scalability in the cloud.md",
     "Microsoft Azure Fundamentals/I. Describe cloud concepts/Describe the benefits of using cloud services/1. Introduction.md",
@@ -162,11 +169,9 @@
     "Microsoft Azure Fundamentals/I. Describe cloud concepts/Describe cloud computing/4. Describe the shared responsibility model.md",
     "Microsoft Azure Fundamentals/I. Describe cloud concepts/Describe cloud computing/3. What is cloud computing.md",
     "Microsoft Azure Fundamentals/I. Describe cloud concepts/Describe cloud computing/2. Introduction to cloud computing.md",
-    "Microsoft Azure Fundamentals/I. Describe cloud concepts/Describe cloud computing/1. Introduction to Microsoft Azure Fundamentals.md",
     "Microsoft Azure Fundamentals/I. Describe cloud concepts/Describe the benefits of using cloud services",
     "Microsoft Azure Fundamentals/I. Describe cloud concepts/Describe cloud service types",
     "Microsoft Azure Fundamentals/I. Describe cloud concepts/Describe cloud computing",
-    "Microsoft Azure Fundamentals/I. Describe cloud concepts",
     "Microsoft Azure Fundamentals/Describe Azure architecture and services/Describe the core architectural components of Azure/4. Describe Azure physical infrastructure.md",
     "Microsoft Azure Fundamentals/Describe cloud concepts/Describe cloud computing/1. Introduction to Microsoft Azure Fundamentals.md",
     "Microsoft Azure Fundamentals/Describe Azure architecture and services/Describe the core architectural components of Azure/2. What is Microsoft Azure.md",
