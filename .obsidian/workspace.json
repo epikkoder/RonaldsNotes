@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Microsoft Azure Fundamentals/II. Describe Azure architecture and services/Describe the core architectural components of Azure/4. Describe Azure physical infrastructure.md",
+                "file": "Microsoft Azure Fundamentals/II. Describe Azure architecture and services/Describe Azure compute and networking services/Introduction.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "4. Describe Azure physical infrastructure"
+              "title": "Introduction"
             }
           }
         ]
@@ -140,12 +140,12 @@
   },
   "active": "07a06450092b86bc",
   "lastOpenFiles": [
+    "Microsoft Azure Fundamentals/II. Describe Azure architecture and services/Describe the core architectural components of Azure/4. Describe Azure physical infrastructure.md",
     "Microsoft Azure Fundamentals/II. Describe Azure architecture and services/Describe Azure compute and networking services/Introduction.md",
     "Microsoft Azure Fundamentals/I. Describe cloud concepts/Describe cloud computing/1. Introduction to Microsoft Azure Fundamentals.md",
     "Microsoft Azure Fundamentals/II. Describe Azure architecture and services/Describe Azure compute and networking services",
     "Microsoft Azure Fundamentals/II. Describe Azure architecture and services/Describe the core architectural components of Azure/5. Describe Azure management infrastructure.md",
     "Microsoft Azure Fundamentals/I. Describe cloud concepts/Describe the benefits of using cloud services/4. Describe the benefits of security and governance in the cloud.md",
-    "Microsoft Azure Fundamentals/II. Describe Azure architecture and services/Describe the core architectural components of Azure/4. Describe Azure physical infrastructure.md",
     "Microsoft Azure Fundamentals/II. Describe Azure architecture and services/Describe the core architectural components of Azure/2. What is Microsoft Azure.md",
     "Microsoft Azure Fundamentals/II. Describe Azure architecture and services/Describe the core architectural components of Azure/3. Get started with Azure accounts.md",
     "Microsoft Azure Fundamentals/Describe Azure architecture and services/Describe the core architectural components of Azure/5. Describe Azure management infrastructure.md",
