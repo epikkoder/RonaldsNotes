@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Microsoft Azure Fundamentals/III. Describe Azure management and governance/Describe features and tools for managing and deploying Azure resources/4. Describe Azure Resource Manager and Azure ARM templates.md",
-                "mode": "source",
+                "file": "Microsoft Azure Fundamentals/III. Describe Azure management and governance/Describe monitoring tools in Azure/2. Describe the purpose of Azure Advisor.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "4. Describe Azure Resource Manager and Azure ARM templates"
+              "title": "2. Describe the purpose of Azure Advisor"
             }
           }
         ]
@@ -140,9 +140,15 @@
   },
   "active": "f1dbe47c26aac64e",
   "lastOpenFiles": [
+    "Microsoft Azure Fundamentals/III. Describe Azure management and governance/Describe monitoring tools in Azure/describe_monitoring_tools_in_azure.pdf",
+    "Microsoft Azure Fundamentals/III. Describe Azure management and governance/Describe monitoring tools in Azure/4. Describe Azure Monitor.md",
+    "Microsoft Azure Fundamentals/III. Describe Azure management and governance/Describe monitoring tools in Azure/3. Describe Azure Service Health.md",
+    "Microsoft Azure Fundamentals/III. Describe Azure management and governance/Describe monitoring tools in Azure/2. Describe the purpose of Azure Advisor.md",
+    "Microsoft Azure Fundamentals/III. Describe Azure management and governance/Describe monitoring tools in Azure/1. Introduction.md",
+    "Microsoft Azure Fundamentals/III. Describe Azure management and governance/Describe features and tools for managing and deploying Azure resources/4. Describe Azure Resource Manager and Azure ARM templates.md",
+    "Microsoft Azure Fundamentals/III. Describe Azure management and governance/Describe monitoring tools in Azure",
     "Microsoft Azure Fundamentals/III. Describe Azure management and governance/Describe features and tools for managing and deploying Azure resources/describe_features_and_tools_for_managing_and_deploying_azure_resources.pdf",
     "Microsoft Azure Fundamentals/III. Describe Azure management and governance/Describe features and tools for managing and deploying Azure resources/3. Describe the purpose of Azure Arc.md",
-    "Microsoft Azure Fundamentals/III. Describe Azure management and governance/Describe features and tools for managing and deploying Azure resources/4. Describe Azure Resource Manager and Azure ARM templates.md",
     "Microsoft Azure Fundamentals/III. Describe Azure management and governance/Describe features and tools for managing and deploying Azure resources/1. Introduction.md",
     "Microsoft Azure Fundamentals/III. Describe Azure management and governance/Describe features and tools for managing and deploying Azure resources/2. Describe tools for interacting with Azure.md",
     "Microsoft Azure Fundamentals/III. Describe Azure management and governance/Describe features and tools in Azure for governance and compliance/3. Describe the purpose of Azure Policy.md",
@@ -170,12 +176,6 @@
     "Microsoft Azure Fundamentals/II. Describe Azure architecture and services/Describe Azure identity, access, and security/5. Describe Azure conditional access.md",
     "Microsoft Azure Fundamentals/II. Describe Azure architecture and services/Describe Azure identity, access, and security/4. Describe Azure external identities.md",
     "Microsoft Azure Fundamentals/II. Describe Azure architecture and services/Describe Azure identity, access, and security/3. Describe Azure authentication methods.md",
-    "Microsoft Azure Fundamentals/II. Describe Azure architecture and services/Describe Azure identity, access, and security/2. Describe Azure directory services.md",
-    "Microsoft Azure Fundamentals/II. Describe Azure architecture and services/Describe Azure storage services/2. Describe Azure storage accounts.md",
-    "Microsoft Azure Fundamentals/II. Describe Azure architecture and services/Describe Azure identity, access, and security/1. Introduction.md",
-    "Microsoft Azure Fundamentals/II. Describe Azure architecture and services/Describe Azure storage services/6. Identify Azure file movement options.md",
-    "Microsoft Azure Fundamentals/II. Describe Azure architecture and services/Describe Azure identity, access, and security",
-    "Microsoft Azure Fundamentals/II. Describe Azure architecture and services/Describe Azure storage services/describe_azure_storage_services.pdf",
     "Microsoft Azure Fundamentals/Untitled.canvas",
     "GitHub Copilot Fundamentals/Introduction to Prompt Engineering with GitHub Copilot/Untitled.canvas",
     "C#/images/immediate_window.gif",
