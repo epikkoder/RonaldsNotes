@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "3e51ad2b279787ee",
+        "id": "44ac553285523f4a",
         "type": "tabs",
         "children": [
           {
-            "id": "5dd6a3876e299c6d",
+            "id": "f1dbe47c26aac64e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Microsoft Azure Fundamentals/III. Describe Azure management and governance/Describe features and tools in Azure for governance and compliance/5. Describe the purpose of the Service Trust portal.md",
-                "mode": "preview",
+                "file": "Microsoft Azure Fundamentals/III. Describe Azure management and governance/Describe features and tools for managing and deploying Azure resources/4. Describe Azure Resource Manager and Azure ARM templates.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "5. Describe the purpose of the Service Trust portal"
+              "title": "4. Describe Azure Resource Manager and Azure ARM templates"
             }
           }
         ]
@@ -138,13 +138,19 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "5dd6a3876e299c6d",
+  "active": "f1dbe47c26aac64e",
   "lastOpenFiles": [
+    "Microsoft Azure Fundamentals/III. Describe Azure management and governance/Describe features and tools for managing and deploying Azure resources/describe_features_and_tools_for_managing_and_deploying_azure_resources.pdf",
+    "Microsoft Azure Fundamentals/III. Describe Azure management and governance/Describe features and tools for managing and deploying Azure resources/3. Describe the purpose of Azure Arc.md",
+    "Microsoft Azure Fundamentals/III. Describe Azure management and governance/Describe features and tools for managing and deploying Azure resources/4. Describe Azure Resource Manager and Azure ARM templates.md",
+    "Microsoft Azure Fundamentals/III. Describe Azure management and governance/Describe features and tools for managing and deploying Azure resources/1. Introduction.md",
+    "Microsoft Azure Fundamentals/III. Describe Azure management and governance/Describe features and tools for managing and deploying Azure resources/2. Describe tools for interacting with Azure.md",
+    "Microsoft Azure Fundamentals/III. Describe Azure management and governance/Describe features and tools in Azure for governance and compliance/3. Describe the purpose of Azure Policy.md",
+    "Microsoft Azure Fundamentals/III. Describe Azure management and governance/Describe features and tools in Azure for governance and compliance/5. Describe the purpose of the Service Trust portal.md",
+    "Microsoft Azure Fundamentals/III. Describe Azure management and governance/Describe features and tools for managing and deploying Azure resources",
     "Microsoft Azure Fundamentals/III. Describe Azure management and governance/Describe features and tools in Azure for governance and compliance/describe_features_and_tools_in_azure_for_governance_and_compliance.pdf",
     "Microsoft Azure Fundamentals/III. Describe Azure management and governance/Describe features and tools in Azure for governance and compliance/2. Describe the purpose of Microsoft Purview.md",
-    "Microsoft Azure Fundamentals/III. Describe Azure management and governance/Describe features and tools in Azure for governance and compliance/5. Describe the purpose of the Service Trust portal.md",
     "Microsoft Azure Fundamentals/III. Describe Azure management and governance/Describe features and tools in Azure for governance and compliance/4. Describe the purpose of resource locks.md",
-    "Microsoft Azure Fundamentals/III. Describe Azure management and governance/Describe features and tools in Azure for governance and compliance/3. Describe the purpose of Azure Policy.md",
     "Microsoft Azure Fundamentals/III. Describe Azure management and governance/Describe features and tools in Azure for governance and compliance/1. Introduction.md",
     "Microsoft Azure Fundamentals/III. Describe Azure management and governance/Describe cost management in Azure/5. Describe the purpose of tags.md",
     "Microsoft Azure Fundamentals/III. Describe Azure management and governance/Describe features and tools in Azure for governance and compliance",
@@ -170,12 +176,6 @@
     "Microsoft Azure Fundamentals/II. Describe Azure architecture and services/Describe Azure storage services/6. Identify Azure file movement options.md",
     "Microsoft Azure Fundamentals/II. Describe Azure architecture and services/Describe Azure identity, access, and security",
     "Microsoft Azure Fundamentals/II. Describe Azure architecture and services/Describe Azure storage services/describe_azure_storage_services.pdf",
-    "Microsoft Azure Fundamentals/II. Describe Azure architecture and services/Describe Azure storage services/5. Identify Azure data migration options.md",
-    "Microsoft Azure Fundamentals/II. Describe Azure architecture and services/Describe Azure storage services/3. Describe Azure storage redundancy.md",
-    "Microsoft Azure Fundamentals/II. Describe Azure architecture and services/Describe Azure storage services/4. Describe Azure storage services.md",
-    "Microsoft Azure Fundamentals/II. Describe Azure architecture and services/Describe the core architectural components of Azure/4. Describe Azure physical infrastructure.md",
-    "Microsoft Azure Fundamentals/II. Describe Azure architecture and services/Describe Azure storage services",
-    "Microsoft Azure Fundamentals/II. Describe Azure architecture and services/Describe Azure compute and networking services/describe_azure_compute_and_networking_services.pdf",
     "Microsoft Azure Fundamentals/Untitled.canvas",
     "GitHub Copilot Fundamentals/Introduction to Prompt Engineering with GitHub Copilot/Untitled.canvas",
     "C#/images/immediate_window.gif",
