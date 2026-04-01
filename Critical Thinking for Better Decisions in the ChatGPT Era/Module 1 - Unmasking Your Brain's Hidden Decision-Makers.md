@@ -7,3 +7,5 @@ Several key components:
 4. Considering the context of the reasoning. Arguments don't happen in a vacuum - there's always a broader context of background assumptions, intended audience, speaker's motives, etc. Critical thinking means taking this context into account when evaluating arguments.
 
 The point of critical thinking is to bring as much of it as possible to the surface, in some sense slowing the reasoning process down, making it explicit and deliberate. Unless you understand the factors that allow your brain to fool itself when you're trying to think critically, you can still find critical thinking very challenging, even if you learn a lot about critical thinking techniques.
+
+According to the book "Thinking, Fast and Slow", humans often use two different ways to approach our thinking: fast, intuitive thinking, as well as slow, more methodical approaches. Fast thinking is processed unconsciously by our "automatic" system, while slow, methodical thinking involves our conscious "deliberative" system. It's a bit like our brain has its own "autopilot" mode for fast thinking.
